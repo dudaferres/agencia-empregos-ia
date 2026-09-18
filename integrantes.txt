@@ -1,0 +1,8 @@
+Integrantes do Grupo
+
+| RM | Nome completo |
+|----|----------------|
+| RM560418 | Maria Eduarda Ferrés |
+| RM560035 | Gabriela Queiroga Cocuzza da Silva |
+
+Link do repositório: https://github.com/dudaferres/agencia-empregos-ia
